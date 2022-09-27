@@ -1,0 +1,5 @@
+bricks:
+  tsxpage:
+    path: bricks/tsxpage
+  tsxcomponent:
+    path: bricks/tsxcomponent
