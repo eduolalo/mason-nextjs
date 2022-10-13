@@ -1,12 +1,10 @@
 /**
- * Componente generada automáticamente con mason-CLI
+ * Component generated with mason-CLI
  */
 
 import styles from './{{name.pascalCase()}}.module.css';
 
-
 const {{ name.pascalCase() }} = () => {
-
 
     return (
         <>
